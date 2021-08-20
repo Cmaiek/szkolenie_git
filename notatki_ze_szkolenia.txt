@@ -6,3 +6,8 @@ git init = rozpocznij śledzenie wersji
 git add = dodaj do "staging area", czyli daj gitowi znać że będziesz chiała to scommitować
 
 git commit = scommituj :D
+
+git branch X = utwórz branch X
+git branch = wyświetl branche w repozytorium
+
+git checkout X = przesuń stan repozytorium do miejsca X, gdzie X to albo commit albo branch
