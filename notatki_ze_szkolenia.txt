@@ -1,0 +1,5 @@
+Git = narzędzie do kontroli wersji
+
+przydatne komendy:
+
+git init = rozpocznij śledzenie wersji
