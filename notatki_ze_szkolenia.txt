@@ -3,3 +3,6 @@ Git = narzędzie do kontroli wersji
 przydatne komendy:
 
 git init = rozpocznij śledzenie wersji
+git add = dodaj do "staging area", czyli daj gitowi znać że będziesz chiała to scommitować
+
+git commit = scommituj :D
